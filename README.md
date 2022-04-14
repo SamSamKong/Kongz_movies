@@ -1,6 +1,6 @@
 # Kongz_movies
 
-Edit the file Kongz_movies.py by entering the working directoty name.<br />
+Edit the file Kongz_movies.py by entering the working directory name.<br />
 The file Kongz_movies.zip should be in the same directory.<br />
 Finally, get your Kongz image on Opensea and save it as "input_image.png" in the same directory.<br />
 Then run the .py script.<br />
